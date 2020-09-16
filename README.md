@@ -1,4 +1,4 @@
-# HackMIT-2019
+# HackMIT-2020
 
 <p align="center">
   <img width="280" src="https://hackmit.org/assets/images/logos/ibm.png">
