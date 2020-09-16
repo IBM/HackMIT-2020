@@ -1,7 +1,7 @@
 # HackMIT-2020
 
 <p align="center">
-  <img width="280" src="https://hackmit.org/assets/images/logos/ibm.png">
+  <img width="280" src="https://github.com/IBM/HackMIT-2020/blob/master/Screen%20Shot%202020-09-16%20at%204.53.44%20PM.png">
 </p>
 
 <p align="center">
