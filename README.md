@@ -18,7 +18,7 @@ All prizes will be split among all team members
 # Main Challenge
 Technology can aid how the community responds to problems caused by COVID-19 separate from government or healthcare officials. This includes how our bedrooms have become our classrooms, how we can know the information we are reading and hearing is accurate, how we can communicate in this crisis and so much more. We're looking to gauge projects outside of healthcare-related solutions that assist or resolve other obstacles presented by this pandemic, broader categories include remote education, crisis communication, community cooperation, etc. 
 
-To qualify for this challenge all solutions in this category must leverage at least 1 IBM service or API"
+To qualify for this challenge all solutions in this category must leverage at least 1 IBM service or API
   
 # IBM Cloud Catalog
 * https://cloud.ibm.com/catalog
