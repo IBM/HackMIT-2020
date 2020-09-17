@@ -16,11 +16,11 @@ This page will have all of our IBM resources listed here.
 All prizes will be split among all team members 
 
 # Main Challenge
-* To qualify for the "Best Disaster Preparedness & Relief Solutions for IBM Code and Response Challenge," hackers need to incorporate at least one of the API services from https://cloud.ibm.com/catalog into their project. Submissions will be judged across 4 areas: Completeness and Transferability, Effectiveness and Efficiency, Design and Usability, and Creativity and Innovation. 
+* “Technology can aid how the community responds to problems caused by COVID-19 separate from government or healthcare officials. This includes how our bedrooms have become our classrooms, how we can know the information we are reading and hearing is accurate, how we can communicate in this crisis and so much more. We're looking to gauge projects outside of healthcare-related solutions that assist or resolve other obstacles presented by this pandemic, broader categories include remote education, crisis communication, community cooperation, etc. 
 
-  We are looking for ideas that will help prevent, mitigate, or recover from natural disasters utilizing technology. Take a look at what our Call for Code 2018 winner Project OWL created: http://www.project-owl.com/
+
+To qualify for this challenge all solutions in this category must leverage at least 1 IBM service or API"
   
-
 # IBM Cloud Catalog
 * https://cloud.ibm.com/catalog
 
