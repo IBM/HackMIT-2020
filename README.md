@@ -44,7 +44,7 @@ To qualify for this challenge all solutions in this category must leverage at le
 
 # Code Patterns
 Find all your code patterns at :  https://developer.ibm.com/patterns/
-or check out this [curated list]()
+or check out this [curated list](https://github.com/IBM/HackMIT-2020/blob/master/Codepatterns.md)
 
 # More Info
 * Call For Code - https://developer.ibm.com/callforcode/
