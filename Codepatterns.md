@@ -8,6 +8,7 @@
 * https://github.com/watson-developer-cloud 
 
 ## Node-RED Code Patterns 
+* https://github.com/pmmistry/Node-RED-Series
 * https://github.com/watson-developer-cloud/node-red-labs
 * https://github.com/watson-developer-cloud/node-red-labs/blob/master/basic_examples/README.md
 * https://github.com/IBMDeveloperNYC/Intro-Node-RED
