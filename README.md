@@ -1,10 +1,16 @@
 # HackMIT-2020
 
+<<<<<<< HEAD
 <!-- <p align="center">
   <img width="800" src="https://github.com/IBM/HackMIT-2020/blob/master/Screen%20Shot%202020-09-16%20at%204.53.44%20PM.png">
 </p> -->
 
 ![](./images/img1.png)
+=======
+<p align="center">
+  <img width="800" src="hhttps://github.com/IBM/HackMIT-2020/blob/master/images/img1.png">
+</p>
+>>>>>>> 2327df81bd1c5cd8f998903bdeaa395f7d1a880f
 
 This page will have all of our IBM resources listed here.
 
@@ -46,7 +52,7 @@ To qualify for this challenge all solutions in this category must leverage at le
 
 # Code Patterns
 Find all your code patterns at :  https://developer.ibm.com/patterns/
-or check out this [curated list]()
+or check out this [curated list](https://github.com/IBM/HackMIT-2020/blob/master/Codepatterns.md)
 
 # More Info
 * Call For Code - https://developer.ibm.com/callforcode/
