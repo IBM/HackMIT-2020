@@ -1,7 +1,7 @@
 # HackMIT-2020
 
 <p align="center">
-  <img width="800" src="https://github.com/IBM/HackMIT-2020/blob/master/Screen%20Shot%202020-09-16%20at%204.53.44%20PM.png">
+  <img width="800" src="hhttps://github.com/IBM/HackMIT-2020/blob/master/images/img1.png">
 </p>
 
 This page will have all of our IBM resources listed here.
