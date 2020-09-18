@@ -1,18 +1,5 @@
 # HackMIT-2020
-
-<<<<<<< HEAD
-<!-- <p align="center">
-  <img width="800" src="https://github.com/IBM/HackMIT-2020/blob/master/Screen%20Shot%202020-09-16%20at%204.53.44%20PM.png">
-</p> -->
-
 ![](./images/img1.png)
-=======
-<p align="center">
-  <img width="800" src="hhttps://github.com/IBM/HackMIT-2020/blob/master/images/img1.png">
-</p>
->>>>>>> 2327df81bd1c5cd8f998903bdeaa395f7d1a880f
-
-This page will have all of our IBM resources listed here.
 
 # Register For IBM Cloud to get Started
 Get started with the IBM Chalenge by registering for IBM Cloud at :  
