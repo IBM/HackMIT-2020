@@ -1,47 +1,52 @@
 # HackMIT-2020
-![](./images/img1.png)
 
-# Register For IBM Cloud to get Started
-Get started with the IBM Chalenge by registering for IBM Cloud at :  
-https://ibm.biz/HackMIT2020
+![HackMIT banner](images/img1.png)
 
-# Main Challenge Prizes
+## Register For IBM Cloud to get Started
+
+Get started with the IBM Chalenge by registering for IBM Cloud at: <https://ibm.biz/HackMIT2020>
+
+## Main Challenge Prizes
+
 * 1st Place - $1500
 * 2nd Place - $750
 * 3rd Place - $500
-All prizes will be split among all team members 
 
-# Main Challenge
+> All prizes will be split among all team members 
+
+## Main Challenge
+
 Technology can aid how the community responds to problems caused by COVID-19 separate from government or healthcare officials. This includes how our bedrooms have become our classrooms, how we can know the information we are reading and hearing is accurate, how we can communicate in this crisis and so much more. We're looking to gauge projects outside of healthcare-related solutions that **assist or resolve other obstacles presented by this pandemic**. Categories for this challenge may include remote education, crisis communication, community cooperation, etc. 
 
 To qualify for this challenge all solutions in this category must leverage at least 1 IBM service or API
   
-# IBM Cloud Catalog
-* https://cloud.ibm.com/catalog
+## IBM Cloud Catalog
 
-# Join our Slack channel
-* hackmit2020.slack.com - #ibm
+* <https://cloud.ibm.com/catalog>
 
-# Follow our Workshop 
-* https://github.com/Call-for-Code/Solution-Starter-Kit-Communication-2020
+## Slack channel
 
-# Inspiration 
+* The [#ibm](https://hackmit2020.slack.com/archives/C01B3KWRJRW) channel at [hackmit2020.slack.com](https://hackmit2020.slack.com)
+
+## Workshop 
+
+* Sat, Sep 19, 2020 1:00 PM - 2:15 PM (EST)
+* <https://github.com/Call-for-Code/Solution-Starter-Kit-Communication-2020>
+
+## Inspiration
+
 * Call for Code Open Source Project - https://developer.ibm.com/callforcode/projects/
-
 * Developer Library - https://developer.ibm.com/callforcode/technical-library/ 
-
 * Crisis Communication Starter Kit - https://developer.ibm.com/callforcode/get-started/covid-19/crisis-communication/
-
 * Remote Education Starter Kit - https://developer.ibm.com/callforcode/get-started/covid-19/remote-education/ 
-
 * Community Cooperation Starter Kit - https://developer.ibm.com/callforcode/get-started/covid-19/community-cooperation/
 
+## Code Patterns
 
-# Code Patterns
-Find all your code patterns at :  https://developer.ibm.com/patterns/
-or check out this [curated list](https://github.com/IBM/HackMIT-2020/blob/master/Codepatterns.md)
+Find all your code patterns at:  https://developer.ibm.com/patterns/ or check out this [curated list](https://github.com/IBM/HackMIT-2020/blob/master/Codepatterns.md)
 
-# More Info
+## More Info
+
 * Call For Code - https://developer.ibm.com/callforcode/
 * Call For Code Repos - https://github.com/Call-for-Code 
 * Code and Response - https://developer.ibm.com/code-and-response/
