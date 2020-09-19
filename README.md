@@ -28,8 +28,6 @@ MIT currently leads the word in green supercomputing with the IBM donated [MIT S
 
 The HackMIT MIT-IBM Green Compute Challenge is looking for ways to help lower the carbon footprint of all high performance computation by raising people's awareness of the carbon cost of their computing. **The winning solution will receive $500 for the project that helps make energy and/or carbon awareness easier... and more fun.. to calculate**. We have lots of ideas and input data on the energy efficiency of various computer platforms, the energy mix of data centers by geography, etc, and would love to help you formulate your solution.  
 
-Join #green-compute-challenge channel. Come help us change the world and make green high performance computing a reality
-  
 ## IBM Cloud Catalog
 
 * <https://cloud.ibm.com/catalog>
